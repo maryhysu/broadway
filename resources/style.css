@@ -61,3 +61,7 @@ body {
   color: white;
   background-color: dimgray;
 }
+
+#footlink {
+  font-size: 11px;
+}
